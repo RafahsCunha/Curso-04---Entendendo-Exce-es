@@ -1,0 +1,15 @@
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\bin\Debug\net6.0\Curso 4 - Endentendo Excecoes.exe
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\bin\Debug\net6.0\Curso 4 - Endentendo Excecoes.deps.json
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\bin\Debug\net6.0\Curso 4 - Endentendo Excecoes.runtimeconfig.json
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\bin\Debug\net6.0\Curso 4 - Endentendo Excecoes.dll
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\bin\Debug\net6.0\Curso 4 - Endentendo Excecoes.pdb
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\obj\Debug\net6.0\Curso 4 - Endentendo Excecoes.csproj.AssemblyReference.cache
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\obj\Debug\net6.0\Curso 4 - Endentendo Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\obj\Debug\net6.0\Curso 4 - Endentendo Excecoes.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\obj\Debug\net6.0\Curso 4 - Endentendo Excecoes.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\obj\Debug\net6.0\Curso 4 - Endentendo Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\obj\Debug\net6.0\Curso 4 - Endentendo Excecoes.dll
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\obj\Debug\net6.0\refint\Curso 4 - Endentendo Excecoes.dll
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\obj\Debug\net6.0\Curso 4 - Endentendo Excecoes.pdb
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\obj\Debug\net6.0\Curso 4 - Endentendo Excecoes.genruntimeconfig.cache
+C:\Users\Rafa\Desktop\FACULDADE\Onboarding Totvs\Alura\Alura - Curso 4\Curso 4 - Endentendo Excecoes\obj\Debug\net6.0\ref\Curso 4 - Endentendo Excecoes.dll
